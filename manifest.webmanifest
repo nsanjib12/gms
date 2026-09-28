@@ -1,0 +1,27 @@
+{
+  "id": "gouri-medical-stores",
+  "name": "Gouri Medical Stores",
+  "short_name": "Gouri Medical",
+  "description": "Manage patients, visiting doctors and appointments at Gouri Medical Stores — offline-first with real-time multi-user sync.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2efe6",
+  "theme_color": "#0d6e52",
+  "categories": ["medical", "productivity", "business"],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
